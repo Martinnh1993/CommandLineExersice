@@ -1,0 +1,26 @@
+NoSQL
+RavenDB
+
+- Key-Value Stores
+redis
+
+- Document Databases
+mongo DB
+coutch DB
+each document are contailer for key values. they're unorginazed
+
+- Columnar Databases
+cassandra
+uses CQL that is simular to SQL
+works great for frequent read and infriquent updates
+best used for games and 
+
+- Graph Databases
+Neo4J 
+
+-relational database
+MySQL
+
+In menory database:
+H2
+AeroStrike DBS
